@@ -3,10 +3,10 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = []
+requirements = ["wheel"]
 
 setup(
-    name="notebook-prajwal",
+    name="notebook_prajwal1",
     version="0.0.1",
     author="PrajwalHG",
     author_email="prajwalhg333@gmail.com",
